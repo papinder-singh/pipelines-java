@@ -17,6 +17,7 @@ steps:
     javaHomeOption: 'Path'
     jdkDirectory: 'C:\Program Files\Java\jdk-11.0.9'
     jdkArchitectureOption: 'x64'
+    mavenPath: 'C:\maven'
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
