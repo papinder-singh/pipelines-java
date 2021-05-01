@@ -14,7 +14,7 @@ steps:
   inputs:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
-    mavenPath: 'C:\maven\bin'
+    mavenPath: 'C:\maven'
     javaHomeOption: 'Path'
     jdkDirectory: 'C:\Program Files\Java\jdk-11.0.9'
     jdkArchitectureOption: 'x64'
